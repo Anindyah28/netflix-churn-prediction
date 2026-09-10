@@ -122,4 +122,3 @@ Tertarik pada:
 - Machine Learning
 - Data Visualization
 
-[LinkedIn] • [GitHub]
