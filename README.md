@@ -4,6 +4,12 @@ Analisis eksploratif (EDA) terhadap data 5.000 pelanggan layanan streaming untuk
 
 ![Preview Analysis](assets/preview_banner.png)
 
+## 🚀 Live Demo
+
+Coba langsung aplikasinya di sini: **[netflix-churn-predictor.streamlit.app](https://netflix-churn-predictor.streamlit.app)**
+
+Masukkan data pelanggan (usia, tipe subscription, watch hours, dll) dan lihat prediksi churn-nya secara real-time.
+
 ## 📌 Latar Belakang
 
 Mempertahankan pelanggan lebih murah dibanding mendapatkan pelanggan baru. Proyek ini menjawab pertanyaan: **"Pelanggan seperti apa yang cenderung berhenti berlangganan, dan sinyal apa yang bisa dideteksi lebih awal?"**
@@ -102,6 +108,18 @@ streamlit run app.py
 
 ## 📈 Langkah Lanjutan
 
-- Deploy aplikasi ke **Streamlit Community Cloud** agar bisa diakses publik lewat link, tanpa perlu di-run lokal.
 - Hyperparameter tuning (GridSearchCV) untuk optimasi lebih lanjut.
 - Cross-validation untuk memastikan model tidak overfitting.
+- Coba model lain (XGBoost, Gradient Boosting) untuk perbandingan tambahan.
+
+## 👩‍💻 Author
+
+**[Nama Kamu]**
+Fresh Graduate | Aspiring Data Analyst/Scientist
+
+Tertarik pada:
+- Data Analysis
+- Machine Learning
+- Data Visualization
+
+[LinkedIn] • [GitHub]
