@@ -114,7 +114,7 @@ streamlit run app.py
 
 ## 👩‍💻 Author
 
-**[Nama Kamu]**
+**[Sri Utami Anindyah Tifany]**
 Fresh Graduate | Aspiring Data Analyst/Scientist
 
 Tertarik pada:
