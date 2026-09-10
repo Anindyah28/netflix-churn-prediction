@@ -2,7 +2,7 @@
 
 Analisis eksploratif (EDA) terhadap data 5.000 pelanggan layanan streaming untuk memahami faktor-faktor yang memengaruhi **churn** (berhentinya pelanggan berlangganan).
 
-![Preview Analysis](assets/preview_banner.png)
+![Preview Analysis](preview_banner.png)
 
 ## 🚀 Live Demo
 
